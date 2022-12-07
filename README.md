@@ -1,8 +1,6 @@
 # Created TİC-TAC-TOE React App
 
-[Try it!](https://vercel.com/akintutkan/tic-tac-toe-app-react) 
-
-#with Vercel
+[Try it!](https://vercel.com/akintutkan/tic-tac-toe-app-react)  with Vercel
 
 
 Main
